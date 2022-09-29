@@ -1,0 +1,16 @@
+#first{
+    color: rgb(50, 215, 102);
+}
+
+.sec{
+    border-radius: 15px;
+    
+}
+#hi{
+    background-color: rgba(86, 0, 14, 0.952);
+    padding: 10px;
+}
+#sd{
+    background-color: rgba(189, 36, 74, 0.952);
+    border-radius: 7px;
+}
